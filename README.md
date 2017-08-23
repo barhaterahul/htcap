@@ -5,7 +5,7 @@ Htcap is not just another vulnerability scanner since it's focused mainly on the
 
 More infos at [htcap.org](http://htcap.org).
 
-## SETUP
+## SETUP ###
 
 ### Requirements
 
