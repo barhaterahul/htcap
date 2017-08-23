@@ -8,7 +8,7 @@ More infos at [htcap.org](http://htcap.org).
 ## SETUP ###
 
 ### Requirements
-These are requirements to install htcap.
+These are requirements to install Htcap.
  1. Python 2.7
  2. PhantomJS v2
  3. Sqlmap (for sqlmap scanner module)
