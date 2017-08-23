@@ -4,8 +4,10 @@ Htcap is a web application scanner able to crawl single page application (SPA) i
 Htcap is not just another vulnerability scanner since it's focused mainly on the crawling process and uses external tools to discover vulnerabilities. It's designed to be a tool for both manual and automated penetration test of modern web applications.
 
 More infos at [htcap.org](http://htcap.org).
+More infos at [htcap.org](http://htcap.org).
 
-## SETUP ###$
+
+## SETUP
 
 ### Requirements
 These are requirements to install Htcap.
